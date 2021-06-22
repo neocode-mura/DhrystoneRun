@@ -1,0 +1,6 @@
+dhry_2.c:32:6:Proc_6	0	static
+dhry_2.c:66:6:Proc_7	0	static
+dhry_2.c:86:6:Proc_8	12	static
+dhry_2.c:111:13:Func_1	0	static
+dhry_2.c:137:9:Func_2	8	static
+dhry_2.c:179:9:Func_3	0	static
